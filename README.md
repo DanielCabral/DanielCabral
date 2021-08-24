@@ -54,6 +54,6 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: Daniel Cabral](https://img.shields.io/badge/-Daniel Cabral-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-cabral-3a5032148/)](https://www.linkedin.com/in/daniel-cabral-3a5032148/)
+[![Linkedin: Daniel Cabral](https://img.shields.io/badge/-DanielCabral-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-cabral-3a5032148/)](https://www.linkedin.com/in/daniel-cabral-3a5032148/)
 [![Gmail Badge](https://img.shields.io/badge/-danielcsouza97@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danielcsouza97@gmail.com)](danielcsouza97@gmail.com)
 [![GitHub DanielCabral]( https://img.shields.io/github/followers/DanielCabral?label=follow&style=social)](https://github.com/DanielCabral)
