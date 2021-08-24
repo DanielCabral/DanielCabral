@@ -1,7 +1,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Daniel Cabral&color=006bed)
 
-<h3> :woman: &nbsp;Sobre mim </h3>
+<h3> :men: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando Ciência da Computação na <a href="https://ufersa.edu.br/">UFERSA</a>.
